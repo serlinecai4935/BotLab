@@ -1,2 +1,6 @@
+import java.util.Random;
+import java.util.Scanner;
+
 public class Chatbot1 {
+
 }
